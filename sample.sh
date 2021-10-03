@@ -1,3 +1,5 @@
+#!/bin/bash
+
 buggy_line=$(python3 iterationlist.py 2>&1)                                                                                                                    
 # echo $buggy_line
 
